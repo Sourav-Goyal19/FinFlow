@@ -1,10 +1,15 @@
 # Finflow - Finance Manager
 
 ![Finflow Screenshot 1](https://res.cloudinary.com/dvovo1lfg/image/upload/v1734070262/projects/finflow/s59ssycyj1gs1m131rde.png)
+
 ![Finflow Screenshot 2](https://res.cloudinary.com/dvovo1lfg/image/upload/v1734070263/projects/finflow/wgr9n1ixddimlxcaptho.png)
+
 ![Finflow Screenshot 3](https://res.cloudinary.com/dvovo1lfg/image/upload/v1734070263/projects/finflow/ri74u8hmoieypep4jfhx.png)
+
 ![Finflow Screenshot 4](https://res.cloudinary.com/dvovo1lfg/image/upload/v1734070262/projects/finflow/blqeauo6kkouslm76jfg.png)
+
 ![Finflow Screenshot 5](https://res.cloudinary.com/dvovo1lfg/image/upload/v1734070263/projects/finflow/kwzme9labfjd3gwbx7dk.png)
+
 ![Finflow Screenshot 6](https://res.cloudinary.com/dvovo1lfg/image/upload/v1734070263/projects/finflow/dnvulertmxqbxsfuidaz.png)
 
 Finflow is a comprehensive finance management application designed to help users track and manage their financial transactions with ease. The application supports multiple account types like cash, bank, and card, allowing users to categorize their transactions and visualize them through various interactive charts. Finflow offers a range of features to enhance user experience, including customizable filters, detailed transaction tables, and multiple chart types. Users can also import transactions via CSV, manage their settings, and authenticate securely.
