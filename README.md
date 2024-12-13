@@ -14,7 +14,7 @@
 
 Finflow is a comprehensive finance management application designed to help users track and manage their financial transactions with ease. The application supports multiple account types like cash, bank, and card, allowing users to categorize their transactions and visualize them through various interactive charts. Finflow offers a range of features to enhance user experience, including customizable filters, detailed transaction tables, and multiple chart types. Users can also import transactions via CSV, manage their settings, and authenticate securely.
 
-## Features
+## Features 🎉
 
 - 📊 **Interactive Financial Dashboard:** Visualize your financial data with dynamic charts.
 - 🔁 **Changeable Chart Types:** Switch between area, line, bar, pie, radar, and radial charts for better insights.
