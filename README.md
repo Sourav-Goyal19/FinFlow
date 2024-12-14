@@ -1,4 +1,4 @@
-# Finflow - Finance Manager
+# FinFlow - Finance Manager
 
 ![Finflow Screenshot 1](https://res.cloudinary.com/dvovo1lfg/image/upload/v1734070262/projects/finflow/s59ssycyj1gs1m131rde.png)
 
