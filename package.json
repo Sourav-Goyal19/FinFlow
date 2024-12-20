@@ -39,7 +39,7 @@
     "drizzle-zod": "^0.5.1",
     "hono": "^4.5.8",
     "lucide-react": "^0.401.0",
-    "next": "14.2.5",
+    "next": "14.2.18",
     "next-auth": "^4.24.7",
     "next-themes": "^0.3.0",
     "nodemailer": "^6.9.14",
