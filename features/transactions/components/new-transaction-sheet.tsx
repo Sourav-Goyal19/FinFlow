@@ -70,6 +70,15 @@ const NewTransactionSheet = () => {
     });
   };
 
+  const defaultValues = {
+    accountId: "",
+    categoryId: "",
+    payee: "",
+    amount: "",
+    date: new Date(),
+    notes: "",
+  };
+
   return (
     <Sheet open={isOpen} onOpenChange={onClose}>
       <SheetContent className="space-y-4">
@@ -85,6 +94,7 @@ const NewTransactionSheet = () => {
           <TransactionForm
             onSubmit={onSubmit}
             disabled={isPending}
+            defaultValues={defaultValues}
             accountOptions={accountOptions}
             categoryOptions={categoryOptions}
             onCreateAccount={onCreateAccount}
