@@ -14,7 +14,7 @@
   "dependencies": {
     "@auth/core": "^0.36.0",
     "@auth/drizzle-adapter": "^1.8.0",
-    "@hono/zod-validator": "^0.2.2",
+    "@hono/zod-validator": "^0.7.4",
     "@hookform/resolvers": "^3.9.0",
     "@neondatabase/serverless": "^0.9.4",
     "@prisma/client": "^5.22.0",
